@@ -1,3 +1,4 @@
-# Segmentation notebook
-A basic notebook for object segmentation from a video file.
+# Segmentation notebooks
+
+A collection of notebook for object segmentation
 
